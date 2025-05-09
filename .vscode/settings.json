@@ -9,5 +9,10 @@
     "C_Cpp.vcFormat.indent.caseLabels": true,
     "C_Cpp.vcFormat.indent.braces": true,
     "C_Cpp.vcFormat.indent.accessSpecifiers": true,
-    "C_Cpp.formatting": "disabled"
+    "C_Cpp.formatting": "disabled",
+    "files.associations": {
+        "errno.h": "c",
+        "assert.h": "c",
+        "leptjson.h": "c"
+    }
 }
