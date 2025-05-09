@@ -1,0 +1,13 @@
+{
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "C_Cpp.vcFormat.indent.caseContentsWhenBlock": true,
+    "C_Cpp.vcFormat.indent.caseLabels": true,
+    "C_Cpp.vcFormat.indent.braces": true,
+    "C_Cpp.vcFormat.indent.accessSpecifiers": true,
+    "C_Cpp.formatting": "disabled"
+}
